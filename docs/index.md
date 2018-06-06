@@ -2,5 +2,5 @@
 
 links to:
 
-- [index.md](home) <<<
+- [index.md](home)
 - [page2.md](page2)
